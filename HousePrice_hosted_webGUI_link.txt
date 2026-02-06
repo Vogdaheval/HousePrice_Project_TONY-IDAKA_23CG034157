@@ -1,4 +1,4 @@
-Name: Tony_idaka Joy
+Name: Tony-idaka Joy
 
 Matric Number: 23CG034157
 
@@ -8,7 +8,7 @@ Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib (.pkl)
 
 
-Live URL of the Hosted Application: https://houseprice-project-eloheniola-23cg034064.onrender.com/
+Live URL of the Hosted Application:https://houseprice-project-tony-idaka-23cg034157.onrender.com
 
 
-GitHub Repository Link: https://github.com/E-DOLLZ/HousePrice_Project_ElohEniola_23CG034064
+GitHub Repository Link: https://github.com/Vogdaheval/HousePrice_Project_TONY-IDAKA_23CG034064
